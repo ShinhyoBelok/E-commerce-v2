@@ -2,6 +2,11 @@ import React from 'react'
 
 export default function Navbar() {
   return (
-    <div>Navbar</div>
+    <nav>
+      <div>Logo</div>
+      <div>Items</div>
+      <div>Car</div>
+      <div>Buy</div>
+    </nav>
   )
 }
